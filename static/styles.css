@@ -1,0 +1,48 @@
+.landing-page{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://images.unsplash.com/photo-1551376347-075b0121a65b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    background-position: center;
+    
+}
+*{
+    margin: 0%;
+}
+ 
+#Name{
+ font-size: 3rem;
+  font-family: "Lemonada", cursive;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+
+}
+ 
+.text{
+    font-size: 1.5rem;
+    text-align: center;
+
+}
+
+ .coustom-navbar{
+    background-image: url("https://images.unsplash.com/photo-1551376347-075b0121a65b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+}
+
+.navbar-brand {
+    color: wheat !important; /* Change this to your desired color */
+}
+
+.navbar-brand{
+    color: black !important;
+
+}
+.About-Me{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
